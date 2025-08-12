@@ -1,0 +1,6 @@
+{
+    "dart.flutterRunAdditionalArgs": [
+        "--dart-define-from-file=.env",
+        "--web-browser-flag=--disable-web-security",
+    ]
+}
